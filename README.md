@@ -1,10 +1,17 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Commerce MongoDB 🏬🎲
+
+<!-- Escrita Sobre o Projeto -->
+<details>
+  <summary><strong>Sobre o Projeto ⚡</strong></summary>
+  
+  Utilizando somente comandos NoSQL, conseguir realizar consultas e alterações na coleção "produtos" do banco commerce, utilizei a ferramenta do MongoDB para ajudar nas queries NoSQL. Foram 32 desafios passados pela Trybe e conseguir realizados todos com muita lógica e conhecimento.
+
+</details>
+
+<details>
+<summary><strong>Nota do Projeto ⭐</strong></summary><br />
+
+## Nota do Projeto ⭐⭐⭐⭐⭐
+![Nota do Projeto Commerce MongoDB](NotaCommerce.png)
+
+</details>
